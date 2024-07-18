@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Savingspromoter-jb/static/css/main.ecd0a22f.css",
+    "main.js": "/Savingspromoter-jb/static/js/main.8180499a.js",
+    "static/media/Money.png": "/Savingspromoter-jb/static/media/Money.cb21cc5de41a96298259.png",
+    "index.html": "/Savingspromoter-jb/index.html",
+    "main.ecd0a22f.css.map": "/Savingspromoter-jb/static/css/main.ecd0a22f.css.map",
+    "main.8180499a.js.map": "/Savingspromoter-jb/static/js/main.8180499a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecd0a22f.css",
+    "static/js/main.8180499a.js"
+  ]
+}
